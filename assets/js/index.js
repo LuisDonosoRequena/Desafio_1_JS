@@ -40,4 +40,4 @@ function press_btn_Menos() {
   precioTotal = cantidad * precioBase;
   total.innerHTML = precioTotal;
 }
-// ********************************************
+// ******************************************

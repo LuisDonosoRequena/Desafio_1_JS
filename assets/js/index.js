@@ -1,7 +1,6 @@
 const precioBase = 400000; /* Se asignan el precio base  i delara variables*/
 let cantidad = 0;
 let precioTotal = 0;
-
 /* Selecciono los botones : Mas y Menos */
 let botonMas = document.querySelector(".btn_Mas");
 let botonMenos = document.querySelector(".btn_Menos");
